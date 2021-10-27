@@ -17,7 +17,7 @@ This tutorial provides the audience with the basic theories, methodologies, and 
 
 
 <!-- ### Introduction -->
-------
+<!-- ------ -->
 <!-- Image quality assessment (IQA), a long-standing task in the field of
 image and multimedia processing, has evolved rapidly in the past two
 decades[^zhou06modern], and has also gained increasing attention from both academic and industry for its broad applications.  -->
