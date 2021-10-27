@@ -24,7 +24,8 @@ decades[^zhou06modern], and has also gained increasing attention from both acade
 In this tutorial, we plan to divide and introduce IQA in the following four parts:
 
 -   Subjective IQA, the most straightforward and reliable way of
-    assessing perceptual quality by humans;
+    assessing perceptual quality by humans; ([Slides](/pdf/Part_I_IQA_subjective.pdf))
+
 
 -   Objective IQA, constructing computational models to automate the
     quality assessment process;
