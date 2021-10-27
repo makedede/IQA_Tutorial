@@ -371,9 +371,7 @@ computational models of perceptual quantities. *Journal of Vision* 8, 12
 </a>
 
 <a id="wang2021troubleshooting">
- Z. Wang, H. Wang, T. Chen, Z. Wang,and K. Ma.
-2021. Troubleshooting blind image quality models in the wild. In *IEEE
-Conference on Computer Vision and Pattern Recognition*. 16256--16265.
+ Z. Wang, H. Wang, T. Chen, Z. Wang,and K. Ma. 2021. Troubleshooting blind image quality models in the wild. In *IEEE Conference on Computer Vision and Pattern Recognition*. 16256--16265.
 </a>
 
 <a id="zhang2021continual">
