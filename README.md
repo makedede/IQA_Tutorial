@@ -1,15 +1,3 @@
-<head>
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-            tex2jax: {
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-            inlineMath: [['$','$']]
-            }
-        });
-    </script>
-</head>
-
 
 ## Image Quality Assessment in the Modern Age
 
@@ -24,7 +12,7 @@ decades[^zhou06modern], and has also gained increasing attention from both acade
 In this tutorial, we plan to divide and introduce IQA in the following four parts:
 
 -   Subjective IQA, the most straightforward and reliable way of
-    assessing perceptual quality by humans;
+    assessing perceptual quality by humans; ([Slides](/pdf/Part_I_IQA_subjective.pdf))
 
 -   Objective IQA, constructing computational models to automate the
     quality assessment process;
@@ -219,7 +207,6 @@ more talented researchers and engineers are willing to join us,
 contributing to this exciting and rewarding field.
 
 ### References
--------
 
 [^berardino2017eigen]: A. Berardino, J. Ballé, V. Laparra, and E. P. Simoncelli. 2017. Eigen-distortions of hierarchical representations. *arXiv preprint arXiv: 1710.02266* (2017).
 
