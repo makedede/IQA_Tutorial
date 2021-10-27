@@ -208,6 +208,18 @@ As a final remark, through this tutorial, we sincerely hope more and
 more talented researchers and engineers are willing to join us,
 contributing to this exciting and rewarding field.
 
+
+### Citation
+```
+@inproceedings{ma2021image,
+  title={Image Quality Assessment in the Modern Age},
+  author={Ma, Kede and Fang, Yuming},
+  booktitle={Proceedings of the 29th ACM International Conference on Multimedia},
+  pages={5664--5666},
+  year={2021}
+}
+```
+
 ### References
 
 [^berardino2017eigen]: A. Berardino, J. Ballé, V. Laparra, and E. P. Simoncelli. 2017. Eigen-distortions of hierarchical representations. *arXiv preprint arXiv: 1710.02266* (2017).
@@ -269,3 +281,4 @@ contributing to this exciting and rewarding field.
 [^zhang21uncer]: W. Zhang, K. Ma, G. Zhai and X. Yang. 2021b. Uncertainty-aware blind image quality assessment in the laboratory and wild. *IEEE Transactions on Image Processing* 30 (2021), 3474--3486.
 
 [^fang2014objective]: Y. Fang, K. Zeng, Z. Wang, W. Lin, Z. Fang,and C.-W. Lin. 2014. Objective quality assessment for image retargeting based on structural similarity. *IEEE Journal on Emerging and Selected Topics in Circuits and Systems* 4, 1 (2014), 95--105.
+
