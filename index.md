@@ -236,9 +236,7 @@ strategy. *Journal of Electronic Imaging* 19, 1 (2010), 1--21.
 [^lin2019kadid]: H. Lin, V. Hosu and D. Saupe. 2019. :A large-scale artificially distorted IQA database. In *2019 Eleventh International
 Conference on Quality of Multimedia Experience*. 1--3.
 
-[^liu2011objective]: Z. Liu, E. Blasch, Z. Xue, J. Zhao, R. Laganiere and W. Wu. 2011. Objective assessment of multiresolution image fusion
-algorithms for context enhancement in night vision:A comparative study. *IEEE Transactions on Pattern Analysis and Machine Intelligence* 34, 1
-(2011), 94--109.
+[^liu2011objective]: Z. Liu, E. Blasch, Z. Xue, J. Zhao, R. Laganiere and W. Wu. 2011. Objective assessment of multiresolution image fusion algorithms for context enhancement in night vision:A comparative study. *IEEE Transactions on Pattern Analysis and Machine Intelligence* 34, 1 (2011), 94--109.
 
 [^ma20group]: K. Ma, Z. Duanmu, Z. Wang, Q. Wu, W. Liu, H. Yong, H. Li and L. Zhang. 2020. Group maximum differentiation competition:Model
 comparison with few samples. *IEEE Transactions on Pattern Analysis and Machine Intelligence* 42, 4 (2020), 851--864.
