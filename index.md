@@ -241,8 +241,7 @@ assessment. *IEEE Transactions on Image Processing* 29 (2020), 4041--4056.
 
 [^laparra2016perceptual]: V. Laparra, J. Ballé, A. Berardino and E. P. Simoncelli. 2016. Perceptual image quality assessment using a normalizedLaplacian pyramid. *Electronic Imaging* 2016, 16 (2016), 1--6.
 
-[^larson2010most]: E. C. Larsonand D. M. Chandler. 2010. Most apparent distortion:Full-reference image quality assessment and the role of
-strategy. *Journal of Electronic Imaging* 19, 1 (2010), 1--21.
+[^larson2010most]: E. C. Larsonand D. M. Chandler. 2010. Most apparent distortion:Full-reference image quality assessment and the role of strategy. *Journal of Electronic Imaging* 19, 1 (2010), 1--21.
 
 [^lin2019kadid]: H. Lin, V. Hosu and D. Saupe. 2019. :A large-scale artificially distorted IQA database. In *2019 Eleventh International
 Conference on Quality of Multimedia Experience*. 1--3.
