@@ -233,13 +233,13 @@ contributing to this exciting and rewarding field.
 
 [^fang20perceptual]: Y. Fang, H. Zhu, K. Ma, Z. Wang and S. Li. 2020. Perceptual evaluation for multi-exposure image fusion of dynamic scenes *IEEE Transactions on Image Processing* 29 (2020), 1127--1138. 
 
-[^ghadiyaram2015massive]: D. Ghadiyaramand A. C. Bovik. 2015. Massive online crowdsourced study of subjective and objective picture quality. *IEEE Transactions on Image Processing* 25, 1 (2015), 372--387.
+[^ghadiyaram2015massive]: D. Ghadiyaram and A. C. Bovik. 2015. Massive online crowdsourced study of subjective and objective picture quality. *IEEE Transactions on Image Processing* 25, 1 (2015), 372--387.
 
 [^hosu2020koniq]: V. Hosu, H. Lin, T. Sziranyi and D. Saupe. 2020. An ecologically valid database for deep learning of blind image quality assessment. *IEEE Transactions on Image Processing* 29 (2020), 4041--4056.
 
 [^laparra2016perceptual]: V. Laparra, J. Ballé, A. Berardino and E. P. Simoncelli. 2016. Perceptual image quality assessment using a normalizedLaplacian pyramid. *Electronic Imaging* 2016, 16 (2016), 1--6.
 
-[^larson2010most]: E. C. Larsonand D. M. Chandler. 2010. Most apparent distortion: Full-reference image quality assessment and the role of strategy. *Journal of Electronic Imaging* 19, 1 (2010), 1--21.
+[^larson2010most]: E. C. Larson and D. M. Chandler. 2010. Most apparent distortion: Full-reference image quality assessment and the role of strategy. *Journal of Electronic Imaging* 19, 1 (2010), 1--21.
 
 [^lin2019kadid]: H. Lin, V. Hosu and D. Saupe. 2019. A large-scale artificially distorted IQA database. In *2019 Eleventh International Conference on Quality of Multimedia Experience*. 1--3.
 
@@ -265,13 +265,13 @@ contributing to this exciting and rewarding field.
 
 [^wang04image]: Z. Wang, A.C. Bovik, H.R. Sheikh and E. P. Simoncelli. 2004. Image quality assessment: From error visibility to structural similarity. *IEEE Transactions on Image Processing* 13, 4 (2004), 600--612.
 
-[^zhou06modern]: Z. Wangand A. C. Bovik. 2006. *Modern Image Quality Assessment*. Morgan & Claypool.
+[^zhou06modern]: Z. Wang and A. C. Bovik. 2006. *Modern Image Quality Assessment*. Morgan & Claypool.
 
-[^wang2009mean]: Z. Wangand A. C. Bovik. 2009. Mean squared error: Love it or leave it?A new look at signal fidelity measures. *IEEE Signal Processing Magazine* 26, 1 (2009), 98--117.
+[^wang2009mean]: Z. Wang and A. C. Bovik. 2009. Mean squared error: Love it or leave it?A new look at signal fidelity measures. *IEEE Signal Processing Magazine* 26, 1 (2009), 98--117.
 
-[^wang2011reduced]: Z. Wangand A. C. Bovik. 2011. Reduced-and no-reference image quality assessment. *IEEE Signal Processing Magazine* 28, 6 (2011), 29--40.
+[^wang2011reduced]: Z. Wang and A. C. Bovik. 2011. Reduced-and no-reference image quality assessment. *IEEE Signal Processing Magazine* 28, 6 (2011), 29--40.
 
-[^wang2008maximum]: Z. Wangand E. P. Simoncelli. 2008. Maximum differentiation (MAD) competition: A methodology for comparing computational models of perceptual quantities. *Journal of Vision* 8, 12 (2008), 8.1--8.13.
+[^wang2008maximum]: Z. Wang and E. P. Simoncelli. 2008. Maximum differentiation (MAD) competition: A methodology for comparing computational models of perceptual quantities. *Journal of Vision* 8, 12 (2008), 8.1--8.13.
 
 [^wang2021troubleshooting]: Z. Wang, H. Wang, T. Chen, Z. Wang and K. Ma. 2021. Troubleshooting blind image quality models in the wild. In *IEEE Conference on Computer Vision and Pattern Recognition*. 16256--16265.
 
