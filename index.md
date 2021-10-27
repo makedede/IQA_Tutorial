@@ -27,7 +27,7 @@ In this tutorial, we plan to divide and introduce IQA in the following four part
     assessing perceptual quality by humans; ([Slides](/pdf/Part_I_IQA_subjective.pdf))
 
 2.  Objective IQA, constructing computational models to automate the
-    quality assessment process; ([Slides](/pdf/Part_II_IQA_method.pdf), [Video](https://www.bilibili.com/video/BV1aL411g77Z?t=77.8))
+    quality assessment process; ([Slides](/pdf/Part_II_IQA_method.pdf), [Video](https://www.bilibili.com/video/BV1aL411g77Z?t=78.7))
 
 3.  IQA model comparison, quantifying the (relative) quality prediction
     performance of the competing models; ([Slides](/pdf/Part_III_IQA_evaluation.pdf), [Video](https://www.bilibili.com/video/BV1aL411g77Z?t=77.8))
