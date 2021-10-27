@@ -231,8 +231,7 @@ contributing to this exciting and rewarding field.
 
 [^berardino2017eigen]: Y. Fang, K. Zeng, Z. Wang, W. Lin, Z. Fang, and C.-W. Lin. 2014. Objective quality assessment for image retargeting based on structural similarity. *IEEE Journal on Emerging and Selected Topics in Circuits and Systems* 4, 1 (2014), 95--105.
 
-[^fang20perceptual]: Y. Fang, H. Zhu, K. Ma, Z. Wang and S. Li. 2020. Perceptual evaluation for multi-exposure image fusion of dynamic scenes.
-*IEEE Transactions on Image Processing* 29 (2020), 1127--1138. 
+[^fang20perceptual]: Y. Fang, H. Zhu, K. Ma, Z. Wang and S. Li. 2020. Perceptual evaluation for multi-exposure image fusion of dynamic scenes *IEEE Transactions on Image Processing* 29 (2020), 1127--1138. 
 
 [^ghadiyaram2015massive]: D. Ghadiyaramand A. C. Bovik. 2015. Massive online crowdsourced study of subjective and objective picture quality. *IEEE
 Transactions on Image Processing* 25, 1 (2015), 372--387.
@@ -285,14 +284,11 @@ Processing*. 106--111.
 [^wang2011reduced]: Z. Wangand A. C. Bovik. 2011. Reduced-and no-reference image quality assessment. *IEEE Signal Processing Magazine* 28, 6
 (2011), 29--40.
 
-[^wang2008maximum]: Z. Wangand E. P. Simoncelli. 2008. Maximum differentiation (MAD) competition:A methodology for comparing
-computational models of perceptual quantities. *Journal of Vision* 8, 12 (2008), 8.1--8.13.
+[^wang2008maximum]: Z. Wangand E. P. Simoncelli. 2008. Maximum differentiation (MAD) competition:A methodology for comparing computational models of perceptual quantities. *Journal of Vision* 8, 12 (2008), 8.1--8.13.
 
-[^wang2021troubleshooting]: Z. Wang, H. Wang, T. Chen, Z. Wang and K. Ma. 2021. Troubleshooting blind image quality models in the wild. In *IEEE
-Conference on Computer Vision and Pattern Recognition*. 16256--16265.
+[^wang2021troubleshooting]: Z. Wang, H. Wang, T. Chen, Z. Wang and K. Ma. 2021. Troubleshooting blind image quality models in the wild. In *IEEE Conference on Computer Vision and Pattern Recognition*. 16256--16265.
 
-[^zhang2021continual]: W. Zhang, D. Li, C. Ma, G. Zhai, X. Yang and K. Ma. 2021a. Continual learning for blind image quality assessment. *arXiv
-preprint arXiv:2102.09717* (2021).
+[^zhang2021continual]: W. Zhang, D. Li, C. Ma, G. Zhai, X. Yang and K. Ma. 2021a. Continual learning for blind image quality assessment. *arXiv preprint arXiv:2102.09717* (2021).
 
 [^zhang21uncer]: W. Zhang, K. Ma, G. Zhai and X. Yang. 2021b. Uncertainty-aware blind image quality assessment in the laboratory and
 wild. *IEEE Transactions on Image Processing* 30 (2021), 3474--3486.
