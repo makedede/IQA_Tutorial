@@ -1,6 +1,4 @@
 theme: jekyll-theme-cayman
 title: 'Tutorial: Image Quality Assessment'
 description: Kede Ma, Yuming Fang
-show_downloads: false
-github.is_project_page: false
 markdown: kramdown
