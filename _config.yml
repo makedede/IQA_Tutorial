@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: 'Image Quality Assessment'
 description: Kede Ma, Yuming Fang
 show_downloads: false
+markdown: kramdown
