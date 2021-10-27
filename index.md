@@ -265,8 +265,7 @@ Processing*. 106--111.
 
 [^sheikh2006statistical]: H. R. Sheikh, M. F. Sabir and A. C. Bovik. 2006. A statistical evaluation of recent full reference image quality assessment algorithms. *IEEE Transactions on Image Processing* 15, 11 (2006), 3440--3451.
 
-[^sui21perceptual]: X. Sui, K. Ma, Y. Yao and Y. Fang. 2021. Perceptual quality assessment of omnidirectional images as moving camera videos.
-*IEEE Transactions on Visualization and Computer Graphics* (2021), 1--11.
+[^sui21perceptual]: X. Sui, K. Ma, Y. Yao and Y. Fang. 2021. Perceptual quality assessment of omnidirectional images as moving camera videos. *IEEE Transactions on Visualization and Computer Graphics* (2021), 1--11.
 
 [^wang15quality]: J. Wang, A. Rehman, K. Zeng, S. Wang and Z. Wang. 2015. Quality prediction of asymmetrically distorted stereoscopic3D images.
 *IEEE Transactions on Image Processing* 24, 11 (2015), 3400--3414.
