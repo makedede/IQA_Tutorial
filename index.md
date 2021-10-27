@@ -222,6 +222,8 @@ more talented researchers and engineers are willing to join us,
 contributing to this exciting and rewarding field.
 
 ### References
+-------
+
 [^berardino2017eigen]: A. Berardino, J. Ballé, V. Laparra, and E. P. Simoncelli. 2017. Eigen-distortions of hierarchical representations. *arXiv preprint arXiv:1710.02266* (2017).
 
 [^bt2002methodology]: RECOMMENDATION ITU-R BT. 2002. Methodology for the subjective assessment of the quality of television pictures. *International Telecommunication Union* (2002).
