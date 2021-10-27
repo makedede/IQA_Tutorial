@@ -217,7 +217,7 @@ contributing to this exciting and rewarding field.
 
 [^fang17objective]: Y. Fang, J. Yan, J. Liu, S. Wang, Q. Li, and Z. Guo. 2017. Objective quality assessment of screen content images by uncertainty weighting. *IEEE Transactions on Image Processing* 26, 4 (2017), 2016--2027.
 
-[^berardino2017eigen]: fang2014objective Y. Fang, K. Zeng, Z. Wang, W. Lin, Z. Fang, and C.-W. Lin. 2014. Objective quality assessment for image retargeting based on structural similarity. *IEEE Journal on Emerging and Selected Topics in Circuits and Systems* 4, 1 (2014), 95--105.
+[^berardino2017eigen]: Y. Fang, K. Zeng, Z. Wang, W. Lin, Z. Fang, and C.-W. Lin. 2014. Objective quality assessment for image retargeting based on structural similarity. *IEEE Journal on Emerging and Selected Topics in Circuits and Systems* 4, 1 (2014), 95--105.
 
 [^fang20perceptual]: Y. Fang, H. Zhu, K. Ma, Z. Wang and S. Li. 2020. Perceptual evaluation for multi-exposure image fusion of dynamic scenes.
 *IEEE Transactions on Image Processing* 29 (2020), 1127--1138. 
