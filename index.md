@@ -2,11 +2,13 @@
 
 This tutorial provides the audience with the basic theories, methodologies, and current progresses of image quality assessment (IQA). From an actionable perspective, we will first revisit several subjective quality assessment methodologies, with emphasis on how to properly select visual stimuli. We will then present in detail the design principles of objective quality assessment models, supplemented by an in-depth analysis of their advantages and disadvantages. Both hand-engineered and (deep) learning-based methods will be covered. Moreover, the limitations with the conventional model comparison methodology for objective quality models will be pointed out, and novel comparison methodologies such as those based on the theory of "analysis by synthesis" will be introduced. We will last discuss the real-world multimedia applications of IQA, and give a list of open challenging problems, in the hope of encouraging more and more talented researchers and engineers devoting to this exciting and rewarding research field.
 
-------
+
 ### Introduction
+------
 Image quality assessment (IQA), a long-standing task in the field of
 image and multimedia processing, has evolved rapidly in the past two
-decades [^zhou06modern], and has also gained increasing attention from both academic and industry for its broad applications. In this tutorial, we plan to divide and introduce IQA in the following four parts:
+decades [^zhou06modern], and has also gained increasing attention from both academic and industry for its broad applications. 
+In this tutorial, we plan to divide and introduce IQA in the following four parts:
 
 -   Subjective IQA, the most straightforward and reliable way of
     assessing perceptual quality by humans;
@@ -20,11 +22,13 @@ decades [^zhou06modern], and has also gained increasing attention from both acad
 -   IQA model applications, considering the particularities of different
     forms of multimedia data.
 
-------
+
 ### Subjective IQA
+------
 The goal of subjective IQA is to collect *reliable* mean opinion scores
 (MOSs) from human subjects on the perceived quality of test images.
-Several subjective methodologies have been standardized in the ITU-R and ITU-T recommendations [^bt2002methodology], which can be broadly categorized into single-stimulus, double-stimulus, and multiple-stimulus
+Several subjective methodologies have been standardized in the ITU-R and 
+ITU-T recommendations [^bt2002methodology], which can be broadly categorized into single-stimulus, double-stimulus, and multiple-stimulus
 methods. Take the single-stimulus absolute category rating (ACR) as an
 example. Each test image is rated individually using the labels "bad",
 "poor", "fair", "good", and "excellent", which are translated to the
@@ -95,7 +99,10 @@ we believe advance the field from at least one of the following aspects:
 
 We will conclude the discussion of FR-IQA models by pointing out an
 embarrassing and common design flaw: many IQA models fail to satisfy the
-identity of indiscernibles (Give an FR-IQA model $D(\cdot)$, where a lower score indicating better predicted quality with a minimum of zero, and two images $x,y$, the identity of indiscernibles refers to  $D(x,y) = 0 \Leftrightarrow x = y$), which has a strong implication that they
+identity of indiscernibles (Give an FR-IQA model $D(\cdot)$, where a lower score 
+indicating better predicted quality with a minimum of zero, and two images $x,y$, 
+the identity of indiscernibles refers to  $D(x,y) = 0 \Leftrightarrow x = y$), 
+which has a strong implication that they
 are not suitable for perceptual optimization.
 
 We then switch our attention to NR-IQA, which is more practical and
