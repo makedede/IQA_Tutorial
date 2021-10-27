@@ -5,7 +5,7 @@ This tutorial provides the audience with the basic theories, methodologies, and 
 <!-- Kede Ma
 Yuming Fang -->
 
-
+==============
 Image quality assessment (IQA), a long-standing task in the field of
 image and multimedia processing, has evolved rapidly in the past two
 decades [@zhou06modern](zhou06modern), and has also gained increasing attention from
@@ -25,7 +25,7 @@ parts:
 -   IQA model applications, considering the particularities of different
     forms of multimedia data.
 
-Subjective IQA
+### Subjective IQA
 ==============
 
 The goal of subjective IQA is to collect *reliable* mean opinion scores
@@ -66,7 +66,7 @@ this part, we will give a brief overview of these datasets, and share
 our thoughts on creating better IQA databases in terms of mining hard
 and diverse images and collecting reliable MOSs.
 
-Objective IQA
+### Objective IQA
 =============
 
 Objective IQA aims to develop computational algorithms that are capable
@@ -138,7 +138,7 @@ attention to the latest learning paradigms for NR-IQA, including
     while being resistant to catastrophic forgetting of old data
     [@zhang2021continual].
 
-IQA Model Comparison
+###  IQA Model Comparison
 ====================
 
 Conventional IQA model comparison generally follows a three-step
@@ -169,7 +169,7 @@ comparison methods, including
 All the above-mentioned methods are based on the idea of "analysis by
 synthesis", which is rooted in the pattern theory by Ulf Grenander.
 
-IQA Model Applications
+###  IQA Model Applications
 ======================
 
 It is highly nontrivial to apply IQA techniques in the field of
@@ -211,7 +211,7 @@ As a final remark, through this tutorial, we sincerely hope more and
 more talented researchers and engineers are willing to join us,
 contributing to this exciting and rewarding field.
 
-## References
+### References
 
 berardino2017eigen A. Berardino, J. Ballé, V. Laparra,and E. P.
 Simoncelli. 2017. Eigen-distortions of hierarchical representations.
