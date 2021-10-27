@@ -5,7 +5,8 @@ This tutorial provides the audience with the basic theories, methodologies, and 
 <!-- Kede Ma
 Yuming Fang -->
 
-==============
+------
+
 Image quality assessment (IQA), a long-standing task in the field of
 image and multimedia processing, has evolved rapidly in the past two
 decades [@zhou06modern](zhou06modern), and has also gained increasing attention from
@@ -26,7 +27,7 @@ parts:
     forms of multimedia data.
 
 ### Subjective IQA
-==============
+------
 
 The goal of subjective IQA is to collect *reliable* mean opinion scores
 (MOSs) from human subjects on the perceived quality of test images.
@@ -139,7 +140,7 @@ attention to the latest learning paradigms for NR-IQA, including
     [@zhang2021continual].
 
 ###  IQA Model Comparison
-====================
+------======
 
 Conventional IQA model comparison generally follows a three-step
 approach. First, pre-select a number of images to form the test set.
@@ -170,7 +171,7 @@ All the above-mentioned methods are based on the idea of "analysis by
 synthesis", which is rooted in the pattern theory by Ulf Grenander.
 
 ###  IQA Model Applications
-======================
+------========
 
 It is highly nontrivial to apply IQA techniques in the field of
 multimedia due to substantially different data formats and
