@@ -20,7 +20,7 @@ This tutorial provides the audience with the basic theories, methodologies, and 
 ------
 Image quality assessment (IQA), a long-standing task in the field of
 image and multimedia processing, has evolved rapidly in the past two
-decades [^zhou06modern], and has also gained increasing attention from both academic and industry for its broad applications. 
+decades[^zhou06modern], and has also gained increasing attention from both academic and industry for its broad applications. 
 In this tutorial, we plan to divide and introduce IQA in the following four parts:
 
 -   Subjective IQA, the most straightforward and reliable way of
@@ -41,7 +41,7 @@ In this tutorial, we plan to divide and introduce IQA in the following four part
 The goal of subjective IQA is to collect *reliable* mean opinion scores
 (MOSs) from human subjects on the perceived quality of test images.
 Several subjective methodologies have been standardized in the ITU-R and 
-ITU-T recommendations [^bt2002methodology], which can be broadly categorized into single-stimulus, double-stimulus, and multiple-stimulus
+ITU-T recommendations[^bt2002methodology], which can be broadly categorized into single-stimulus, double-stimulus, and multiple-stimulus
 methods. Take the single-stimulus absolute category rating (ACR) as an
 example. Each test image is rated individually using the labels "bad",
 "poor", "fair", "good", and "excellent", which are translated to the
@@ -60,17 +60,15 @@ the introduction of subjective experimental procedures, many important
 
 The immediate results of subjective experiments are human-labeled image
 quality databases, which monitor the progress of objective IQA. For
-example, the LIVE dataset [^sheikh2006statistical] marks the switch from
-distortion-specific to general-purpose IQA. The CSIQ dataset
-[^larson2010most] enables cross-dataset comparison. The TID2013
-dataset [^ponomarenko2013color] and its successor
-KADID-10K [^lin2019kadid] expose the difficulty of IQA methods in
+example, the LIVE dataset[^sheikh2006statistical] marks the switch from
+distortion-specific to general-purpose IQA. The CSIQ dataset[^larson2010most] enables cross-dataset comparison. The TID2013
+dataset[^ponomarenko2013color] and its successor
+KADID-10K[^lin2019kadid] expose the difficulty of IQA methods in
 generalizing to different distortion types. The Waterloo Exploration
-Database [^ma17waterloo] tests model robustness to diverse content
+Database[^ma17waterloo] tests model robustness to diverse content
 variations of natural scenes. The LIVE Challenge
-Database [^ghadiyaram2015massive] probes the synthetic-to-real
-generalization, which is further evaluated by the KonIQ-10K
-[^hosu2020koniq] and SPAQ [^fang20perceptual] datasets. At the end of
+Database[^ghadiyaram2015massive] probes the synthetic-to-real
+generalization, which is further evaluated by the KonIQ-10K[^hosu2020koniq] and SPAQ[^fang20perceptual] datasets. At the end of
 this part, we will give a brief overview of these datasets, and share
 our thoughts on creating better IQA databases in terms of mining hard
 and diverse images and collecting reliable MOSs.
@@ -86,10 +84,10 @@ reference image) for quality assessment of a "distorted" image. NR-IQA
 models, on the other hand, do not require any reference information. We
 will first discuss full-reference models, and start with THE default
 quality metric - mean squared error (MSE) that has dominated the field
-of signal processing for more than 50 years [^wang2009mean]. We will
+of signal processing for more than 50 years[^wang2009mean]. We will
 revisit the limitations of MSE by hand-crafting its counterexamples
 intuitively. This motivates the development of the structural similarity
-(SSIM) index [^wang04image], a award-winning and widely adopted
+(SSIM) index[^wang04image], a award-winning and widely adopted
 perceptual quality model. Since its inception in 2004, the design
 philosophy underlying SSIM continues to impact the IQA field up to
 today. Among a myriad of existing IQA models, we will sample a few that
@@ -121,13 +119,12 @@ are not suitable for perceptual optimization.
 We then switch our attention to NR-IQA, which is more practical and
 challenging due to the lack of reference information. We will first
 describe a widely accepted design principle based on natural scene
-statistics (NSS) [^wang2011reduced]. The underlying assumption is that a
+statistics (NSS)[^wang2011reduced]. The underlying assumption is that a
 measure of the destruction of statistical regularities of natural images
 provides a reasonable approximation to perceived visual quality. Both
 hand-crafted and learned NSS in spatial and frequency domain will be
 described. In particular, we would like to put more emphasis on one NR
-model, namely, the naturalness image quality evaluator (NIQE)
-[^mittal13making], which has began to show its potentials in
+model, namely, the naturalness image quality evaluator (NIQE)[^mittal13making], which has began to show its potentials in
 benchmarking image processing algorithms in real settings.
 
 Limited by the expressiveness of hand-crafted features, NSS-based
@@ -140,14 +137,13 @@ attention to the latest learning paradigms for NR-IQA, including
 
 -   Unified learning for NR-IQA from multiple IQA databases
     simultaneously without additional subjective testing for perceptual
-    scale realignment [^zhang21uncer];
+    scale realignment[^zhang21uncer];
 
 -   Active learning for NR-IQA by failure identification and model
-    rectification [^wang2021troubleshooting];
+    rectification[^wang2021troubleshooting];
 
 -   Continual learning for NR-IQA, where the model evolves with new data
-    while being resistant to catastrophic forgetting of old data
-    [^zhang2021continual].
+    while being resistant to catastrophic forgetting of old data[^zhang2021continual].
 
 ###  IQA Model Comparison
 ------
@@ -162,19 +158,19 @@ in terms of the representativeness of test samples and the risk of
 overfitting. We will then introduce a series of alternative IQA model
 comparison methods, including
 
--   Maximum differentiation (MAD) competition [^wang2008maximum],
+-   Maximum differentiation (MAD) competition[^wang2008maximum],
     automatically synthesizing images that are likely to falsify the IQA
     model in question;
 
--   Group MAD (gMAD) competition [^ma20group], a discrete instantiation
+-   Group MAD (gMAD) competition[^ma20group], a discrete instantiation
     of MAD that is more efficient and controllable;
 
--   Eigen-distortion analysis [^berardino2017eigen], a method for
+-   Eigen-distortion analysis[^berardino2017eigen], a method for
     comparing image representations in terms of their ability to explain
     perceptual sensitivity in humans;
 
 -   Comparison of IQA models for perceptual optimization of image
-    processing systems [^ding21comparison].
+    processing systems[^ding21comparison].
 
 All the above-mentioned methods are based on the idea of "analysis by
 synthesis", which is rooted in the pattern theory by Ulf Grenander.
@@ -184,28 +180,28 @@ synthesis", which is rooted in the pattern theory by Ulf Grenander.
 
 It is highly nontrivial to apply IQA techniques in the field of
 multimedia due to substantially different data formats and
-particularities [^wang2016objective]. Subject to the time constraint, we
+particularities[^wang2016objective]. Subject to the time constraint, we
 plan to present a few demonstrating examples, including
 
--   High-dynamic-range imaging [^laparra2016perceptual], where the input
+-   High-dynamic-range imaging[^laparra2016perceptual], where the input
     and output images have different bit depths;
 
--   Image fusion [^liu2011objective], where input and output have
+-   Image fusion[^liu2011objective], where input and output have
     different numbers of images;
 
--   Color-to-gray conversion [^ma2015objective] and colorization, where
+-   Color-to-gray conversion[^ma2015objective] and colorization, where
     input and output images have different color channels;
 
--   Image retargeting [^fang2014objective], where input and output
+-   Image retargeting[^fang2014objective], where input and output
     images have different spatial resolutions;
 
--   Stereoscopic images [^wang15quality], where binocular vision should
+-   Stereoscopic images[^wang15quality], where binocular vision should
     be modeled;
 
--   Omnidirectional images [^sui21perceptual], where viewing behaviors
+-   Omnidirectional images[^sui21perceptual], where viewing behaviors
     may be indispensable for quality assessment;
 
--   Screen content images [^fang17objective], where non-natural image
+-   Screen content images[^fang17objective], where non-natural image
     statistics should be extracted;
 
 -   Natural videos (in the streaming setting), where the time dimension
