@@ -44,7 +44,7 @@ ITU-T recommendations [^bt2002methodology], which can be broadly categorized int
 methods. Take the single-stimulus absolute category rating (ACR) as an
 example. Each test image is rated individually using the labels "bad",
 "poor", "fair", "good", and "excellent", which are translated to the
-values $1$, $2$, $3$, $4$, and $5$ when calculating the MOS. Along with
+values 1, 2, 3, 4, and 5 when calculating the MOS. Along with
 the introduction of subjective experimental procedures, many important
 (but subtle) designs are also discussed.
 
@@ -85,7 +85,7 @@ reference image) for quality assessment of a "distorted" image. NR-IQA
 models, on the other hand, do not require any reference information. We
 will first discuss full-reference models, and start with THE default
 quality metric - mean squared error (MSE) that has dominated the field
-of signal processing for more than $50$ years [^wang2009mean]. We will
+of signal processing for more than 50 years [^wang2009mean]. We will
 revisit the limitations of MSE by hand-crafting its counterexamples
 intuitively. This motivates the development of the structural similarity
 (SSIM) index [^wang04image], a award-winning and widely adopted
