@@ -61,14 +61,14 @@ the introduction of subjective experimental procedures, many important
 The immediate results of subjective experiments are human-labeled image
 quality databases, which monitor the progress of objective IQA. For
 example, the LIVE dataset[^sheikh2006statistical] marks the switch from
-distortion-specific to general-purpose IQA. The CSIQ dataset[^larson2010most] enables cross-dataset comparison. The TID2013
-dataset[^ponomarenko2013color] and its successor
+distortion-specific to general-purpose IQA. The CSIQ dataset[^larson2010most] enables cross-dataset comparison. The TID2013 dataset[^ponomarenko2013color] and its successor
 KADID-10K[^lin2019kadid] expose the difficulty of IQA methods in
 generalizing to different distortion types. The Waterloo Exploration
 Database[^ma17waterloo] tests model robustness to diverse content
 variations of natural scenes. The LIVE Challenge
 Database[^ghadiyaram2015massive] probes the synthetic-to-real
-generalization, which is further evaluated by the KonIQ-10K[^hosu2020koniq] and SPAQ[^fang20perceptual] datasets. At the end of
+generalization, which is further evaluated by the KonIQ-10K[^hosu2020koniq] and 
+SPAQ[^fang20perceptual] datasets. At the end of
 this part, we will give a brief overview of these datasets, and share
 our thoughts on creating better IQA databases in terms of mining hard
 and diverse images and collecting reliable MOSs.
@@ -124,7 +124,8 @@ measure of the destruction of statistical regularities of natural images
 provides a reasonable approximation to perceived visual quality. Both
 hand-crafted and learned NSS in spatial and frequency domain will be
 described. In particular, we would like to put more emphasis on one NR
-model, namely, the naturalness image quality evaluator (NIQE)[^mittal13making], which has began to show its potentials in
+model, namely, the naturalness image quality evaluator (NIQE)[^mittal13making], 
+which has began to show its potentials in
 benchmarking image processing algorithms in real settings.
 
 Limited by the expressiveness of hand-crafted features, NSS-based
@@ -220,7 +221,7 @@ contributing to this exciting and rewarding field.
 ### References
 -------
 
-[^berardino2017eigen]: A. Berardino, J. Ballé, V. Laparra, and E. P. Simoncelli. 2017. Eigen-distortions of hierarchical representations. *arXiv preprint arXiv:1710.02266* (2017).
+[^berardino2017eigen]: A. Berardino, J. Ballé, V. Laparra, and E. P. Simoncelli. 2017. Eigen-distortions of hierarchical representations. *arXiv preprint arXiv: 1710.02266* (2017).
 
 [^bt2002methodology]: RECOMMENDATION ITU-R BT. 2002. Methodology for the subjective assessment of the quality of television pictures. *International Telecommunication Union* (2002).
 
@@ -234,15 +235,15 @@ contributing to this exciting and rewarding field.
 
 [^ghadiyaram2015massive]: D. Ghadiyaramand A. C. Bovik. 2015. Massive online crowdsourced study of subjective and objective picture quality. *IEEE Transactions on Image Processing* 25, 1 (2015), 372--387.
 
-[^hosu2020koniq]: V. Hosu, H. Lin, T. Sziranyi and D. Saupe. 2020. :An ecologically valid database for deep learning of blind image quality assessment. *IEEE Transactions on Image Processing* 29 (2020), 4041--4056.
+[^hosu2020koniq]: V. Hosu, H. Lin, T. Sziranyi and D. Saupe. 2020. An ecologically valid database for deep learning of blind image quality assessment. *IEEE Transactions on Image Processing* 29 (2020), 4041--4056.
 
 [^laparra2016perceptual]: V. Laparra, J. Ballé, A. Berardino and E. P. Simoncelli. 2016. Perceptual image quality assessment using a normalizedLaplacian pyramid. *Electronic Imaging* 2016, 16 (2016), 1--6.
 
-[^larson2010most]: E. C. Larsonand D. M. Chandler. 2010. Most apparent distortion:Full-reference image quality assessment and the role of strategy. *Journal of Electronic Imaging* 19, 1 (2010), 1--21.
+[^larson2010most]: E. C. Larsonand D. M. Chandler. 2010. Most apparent distortion: Full-reference image quality assessment and the role of strategy. *Journal of Electronic Imaging* 19, 1 (2010), 1--21.
 
-[^lin2019kadid]: H. Lin, V. Hosu and D. Saupe. 2019. :A large-scale artificially distorted IQA database. In *2019 Eleventh International Conference on Quality of Multimedia Experience*. 1--3.
+[^lin2019kadid]: H. Lin, V. Hosu and D. Saupe. 2019. A large-scale artificially distorted IQA database. In *2019 Eleventh International Conference on Quality of Multimedia Experience*. 1--3.
 
-[^liu2011objective]: Z. Liu, E. Blasch, Z. Xue, J. Zhao, R. Laganiere and W. Wu. 2011. Objective assessment of multiresolution image fusion algorithms for context enhancement in night vision:A comparative study. *IEEE Transactions on Pattern Analysis and Machine Intelligence* 34, 1 (2011), 94--109.
+[^liu2011objective]: Z. Liu, E. Blasch, Z. Xue, J. Zhao, R. Laganiere and W. Wu. 2011. Objective assessment of multiresolution image fusion algorithms for context enhancement in night vision: A comparative study. *IEEE Transactions on Pattern Analysis and Machine Intelligence* 34, 1 (2011), 94--109.
 
 [^ma20group]: K. Ma, Z. Duanmu, Z. Wang, Q. Wu, W. Liu, H. Yong, H. Li and L. Zhang. 2020. Group maximum differentiation competition:Model comparison with few samples. *IEEE Transactions on Pattern Analysis and Machine Intelligence* 42, 4 (2020), 851--864.
 
@@ -260,21 +261,21 @@ contributing to this exciting and rewarding field.
 
 [^wang15quality]: J. Wang, A. Rehman, K. Zeng, S. Wang and Z. Wang. 2015. Quality prediction of asymmetrically distorted stereoscopic3D images. *IEEE Transactions on Image Processing* 24, 11 (2015), 3400--3414.
 
-[^wang2016objective]: Z. Wang. 2016. Objective image quality assessment:Facing the real-world challenges. *Electronic Imaging* 2016, 13 (2016), 1--6.
+[^wang2016objective]: Z. Wang. 2016. Objective image quality assessment: Facing the real-world challenges. *Electronic Imaging* 2016, 13 (2016), 1--6.
 
-[^wang04image]: Z. Wang, A.C. Bovik, H.R. Sheikh and E. P. Simoncelli. 2004. Image quality assessment:From error visibility to structural similarity. *IEEE Transactions on Image Processing* 13, 4 (2004), 600--612.
+[^wang04image]: Z. Wang, A.C. Bovik, H.R. Sheikh and E. P. Simoncelli. 2004. Image quality assessment: From error visibility to structural similarity. *IEEE Transactions on Image Processing* 13, 4 (2004), 600--612.
 
 [^zhou06modern]: Z. Wangand A. C. Bovik. 2006. *Modern Image Quality Assessment*. Morgan & Claypool.
 
-[^wang2009mean]: Z. Wangand A. C. Bovik. 2009. Mean squared error:Love it or leave it?A new look at signal fidelity measures. *IEEE Signal Processing Magazine* 26, 1 (2009), 98--117.
+[^wang2009mean]: Z. Wangand A. C. Bovik. 2009. Mean squared error: Love it or leave it?A new look at signal fidelity measures. *IEEE Signal Processing Magazine* 26, 1 (2009), 98--117.
 
 [^wang2011reduced]: Z. Wangand A. C. Bovik. 2011. Reduced-and no-reference image quality assessment. *IEEE Signal Processing Magazine* 28, 6 (2011), 29--40.
 
-[^wang2008maximum]: Z. Wangand E. P. Simoncelli. 2008. Maximum differentiation (MAD) competition:A methodology for comparing computational models of perceptual quantities. *Journal of Vision* 8, 12 (2008), 8.1--8.13.
+[^wang2008maximum]: Z. Wangand E. P. Simoncelli. 2008. Maximum differentiation (MAD) competition: A methodology for comparing computational models of perceptual quantities. *Journal of Vision* 8, 12 (2008), 8.1--8.13.
 
 [^wang2021troubleshooting]: Z. Wang, H. Wang, T. Chen, Z. Wang and K. Ma. 2021. Troubleshooting blind image quality models in the wild. In *IEEE Conference on Computer Vision and Pattern Recognition*. 16256--16265.
 
-[^zhang2021continual]: W. Zhang, D. Li, C. Ma, G. Zhai, X. Yang and K. Ma. 2021a. Continual learning for blind image quality assessment. *arXiv preprint arXiv:2102.09717* (2021).
+[^zhang2021continual]: W. Zhang, D. Li, C. Ma, G. Zhai, X. Yang and K. Ma. 2021a. Continual learning for blind image quality assessment. *arXiv preprint arXiv: 2102.09717* (2021).
 
 [^zhang21uncer]: W. Zhang, K. Ma, G. Zhai and X. Yang. 2021b. Uncertainty-aware blind image quality assessment in the laboratory and wild. *IEEE Transactions on Image Processing* 30 (2021), 3474--3486.
 
