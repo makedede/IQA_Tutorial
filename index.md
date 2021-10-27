@@ -36,7 +36,7 @@ In this tutorial, we plan to divide and introduce IQA in the following four part
     forms of multimedia data.
 
 
-### Subjective IQA
+### Part I: Subjective IQA
 ------
 The goal of subjective IQA is to collect *reliable* mean opinion scores
 (MOSs) from human subjects on the perceived quality of test images.
@@ -73,7 +73,7 @@ this part, we will give a brief overview of these datasets, and share
 our thoughts on creating better IQA databases in terms of mining hard
 and diverse images and collecting reliable MOSs.
 
-### Objective IQA
+### Part II: Objective IQA
 ------
 Objective IQA aims to develop computational algorithms that are capable
 of providing consistent quality predictions with human data. These
@@ -146,7 +146,7 @@ attention to the latest learning paradigms for NR-IQA, including
 -   Continual learning for NR-IQA, where the model evolves with new data
     while being resistant to catastrophic forgetting of old data[^zhang2021continual].
 
-###  IQA Model Comparison
+###  Part III: IQA Model Comparison
 ------
 Conventional IQA model comparison generally follows a three-step
 approach. First, pre-select a number of images to form the test set.
@@ -176,7 +176,7 @@ comparison methods, including
 All the above-mentioned methods are based on the idea of "analysis by
 synthesis", which is rooted in the pattern theory by Ulf Grenander.
 
-###  IQA Model Applications
+###  Part IV: IQA Model Applications
 ------
 
 It is highly nontrivial to apply IQA techniques in the field of
