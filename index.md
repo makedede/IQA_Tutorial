@@ -1,11 +1,12 @@
-## Image Quality Assessment in the Modern Age
+<!-- ## Image Quality Assessment in the Modern Age -->
 
-This tutorial provides the audience with the basic theories, methodologies, and current progresses of image quality assessment (IQA). From an actionable perspective, we will first revisit several subjective quality assessment methodologies, with emphasis on how to properly select visual stimuli. We will then present in detail the design principles of objective quality assessment models, supplemented by an in-depth analysis of their advantages and disadvantages. Both hand-engineered and (deep) learning-based methods will be covered. Moreover, the limitations with the conventional model comparison methodology for objective quality models will be pointed out, and novel comparison methodologies such as those based on the theory of "analysis by synthesis" will be introduced. We will last discuss the real-world multimedia applications of IQA, and give a list of open challenging problems, in the hope of encouraging more and more talented researchers and engineers devoting to this exciting and rewarding research field.
+<!-- This tutorial provides the audience with the basic theories, methodologies, and current progresses of image quality assessment (IQA). From an actionable perspective, we will first revisit several subjective quality assessment methodologies, with emphasis on how to properly select visual stimuli. We will then present in detail the design principles of objective quality assessment models, supplemented by an in-depth analysis of their advantages and disadvantages. Both hand-engineered and (deep) learning-based methods will be covered. Moreover, the limitations with the conventional model comparison methodology for objective quality models will be pointed out, and novel comparison methodologies such as those based on the theory of "analysis by synthesis" will be introduced. We will last discuss the real-world multimedia applications of IQA, and give a list of open challenging problems, in the hope of encouraging more and more talented researchers and engineers devoting to this exciting and rewarding research field. -->
 
-<!-- Kede Ma
+<!-- Author
+Kede Ma
 Yuming Fang -->
 
-------
+<!-- ------ -->
 
 Image quality assessment (IQA), a long-standing task in the field of
 image and multimedia processing, has evolved rapidly in the past two
@@ -28,7 +29,6 @@ parts:
 
 ### Subjective IQA
 ------
-
 The goal of subjective IQA is to collect *reliable* mean opinion scores
 (MOSs) from human subjects on the perceived quality of test images.
 Several subjective methodologies have been standardized in the ITU-R and
@@ -68,8 +68,7 @@ our thoughts on creating better IQA databases in terms of mining hard
 and diverse images and collecting reliable MOSs.
 
 ### Objective IQA
-=============
-
+------
 Objective IQA aims to develop computational algorithms that are capable
 of providing consistent quality predictions with human data. These
 models can be mainly classified into two categories: full-reference (FR)
@@ -140,8 +139,7 @@ attention to the latest learning paradigms for NR-IQA, including
     [@zhang2021continual].
 
 ###  IQA Model Comparison
-------======
-
+------
 Conventional IQA model comparison generally follows a three-step
 approach. First, pre-select a number of images to form the test set.
 Second, collect the MOS for each image in the test set to represent its
@@ -171,7 +169,7 @@ All the above-mentioned methods are based on the idea of "analysis by
 synthesis", which is rooted in the pattern theory by Ulf Grenander.
 
 ###  IQA Model Applications
-------========
+------
 
 It is highly nontrivial to apply IQA techniques in the field of
 multimedia due to substantially different data formats and
