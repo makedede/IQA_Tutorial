@@ -11,17 +11,17 @@ image and multimedia processing, has evolved rapidly in the past two
 decades[^zhou06modern], and has also gained increasing attention from both academic and industry for its broad applications. 
 In this tutorial, we plan to divide and introduce IQA in the following four parts:
 
--   Subjective IQA, the most straightforward and reliable way of
+1.  Subjective IQA, the most straightforward and reliable way of
     assessing perceptual quality by humans; ([Slides](/pdf/Part_I_IQA_subjective.pdf))
 
--   Objective IQA, constructing computational models to automate the
+2.  Objective IQA, constructing computational models to automate the
     quality assessment process; ([Slides](/pdf/Part_II_IQA_method.pdf))
 
--   IQA model comparison, quantifying the (relative) quality prediction
+3.  IQA model comparison, quantifying the (relative) quality prediction
     performance of the competing models; ([Slides](/pdf/Part_III_IQA_evaluation.pdf))
 
--   IQA model applications, considering the particularities of different
-    forms of multimedia data. ([Slides](/pdf/Part_IV_ IQA_application.pdf))
+4.  IQA model applications, considering the particularities of different
+    forms of multimedia data. ([Slides](/pdf/Part_IV_IQA_application.pdf))
 
 
 ### Part I: Subjective IQA
