@@ -11,7 +11,7 @@
 </head> -->
 
 
-## Image Quality Assessment in the Modern Age ([arXiv](https://arxiv.org/abs/2110.09699))
+<!-- ## Image Quality Assessment in the Modern Age ([arXiv](https://arxiv.org/abs/2110.09699)) -->
 
 ### Abstract
 
@@ -21,6 +21,8 @@ This tutorial provides the audience with the basic theories, methodologies, and 
 ### Material
 
 In this tutorial, we divide and introduce IQA in the following four parts:
+
+0.  Extended Abstract [[arXiv]](https://arxiv.org/abs/2110.09699)
 
 1.  Subjective IQA [[Slides](/pdf/Part_I_IQA_subjective.pdf)]
 
