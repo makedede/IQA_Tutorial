@@ -22,15 +22,15 @@
 
 <!-- In this tutorial, we divide and introduce IQA in the following four parts: -->
 
-> - Extended Abstract [[arXiv]](https://arxiv.org/abs/2110.09699)
+>  Extended Abstract [[arXiv]](https://arxiv.org/abs/2110.09699)
 
-> -  Subjective IQA [[Slides](/pdf/Part_I_IQA_subjective.pdf)]
+>  Subjective IQA [[Slides](/pdf/Part_I_IQA_subjective.pdf)]
 
-> -  Objective IQA [[Slides](/pdf/Part_II_IQA_objective.pdf)][[Video(Bilibili)](https://www.bilibili.com/video/BV1Pu411o77F?t=2.4)]
+>  Objective IQA [[Slides](/pdf/Part_II_IQA_objective.pdf)][[Video(Bilibili)](https://www.bilibili.com/video/BV1Pu411o77F?t=2.4)]
 
-> -  IQA Model Comparison [[Slides](/pdf/Part_III_IQA_evaluation.pdf)][[Video(Bilibili)](https://www.bilibili.com/video/BV1aL411g77Z?t=77.8)]
+>  IQA Model Comparison [[Slides](/pdf/Part_III_IQA_evaluation.pdf)][[Video(Bilibili)](https://www.bilibili.com/video/BV1aL411g77Z?t=77.8)]
 
-> -  IQA Model Applications [[Slides](/pdf/Part_IV_IQA_application.pdf)]
+>  IQA Model Applications [[Slides](/pdf/Part_IV_IQA_application.pdf)]
 
 
 
