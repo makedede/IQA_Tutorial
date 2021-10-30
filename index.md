@@ -23,13 +23,13 @@ image and multimedia processing, has evolved rapidly in the past two
 decades[^zhou06modern], and has also gained increasing attention from both academic and industry for its broad applications.  -->
 In this tutorial, we divide and introduce IQA in the following four parts:
 
-1.  Subjective IQA ([Slides](/pdf/Part_I_IQA_subjective.pdf))
+1.  Subjective IQA [[Slides](/pdf/Part_I_IQA_subjective.pdf)]
 
-2.  Objective IQA ([Slides](/pdf/Part_II_IQA_objective.pdf), [Video(Bilibili)](https://www.bilibili.com/video/BV1Pu411o77F?t=2.4))
+2.  Objective IQA [[Slides](/pdf/Part_II_IQA_objective.pdf)][[Video(Bilibili)](https://www.bilibili.com/video/BV1Pu411o77F?t=2.4)]
 
-3.  IQA Model Comparison ([Slides](/pdf/Part_III_IQA_evaluation.pdf), [Video((Bilibili))](https://www.bilibili.com/video/BV1aL411g77Z?t=77.8))
+3.  IQA Model Comparison [[Slides](/pdf/Part_III_IQA_evaluation.pdf)][[Video((Bilibili))](https://www.bilibili.com/video/BV1aL411g77Z?t=77.8)]
 
-4.  IQA Model Applications ([Slides](/pdf/Part_IV_IQA_application.pdf))
+4.  IQA Model Applications [[Slides](/pdf/Part_IV_IQA_application.pdf)]
 
 
 ### Citation
